@@ -1,0 +1,10 @@
+login menggunakan indratelcbn@gmail.com
+
+u: indratelcbn
+p: JXN8XAX5j3GSFFLf
+
+link: 
+mongodb+srv://indratelcbn:JXN8XAX5j3GSFFLf@batch60.h9h7x.mongodb.net/?retryWrites=true&w=majority&appName=batch60
+
+
+component react framer motion
